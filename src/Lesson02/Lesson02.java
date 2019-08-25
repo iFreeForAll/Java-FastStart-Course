@@ -2,7 +2,9 @@ package Lesson02;
 
 import java.util.Scanner;
 
-//code from the 2nd lesson of the course
+//code from the 2nd lesson of the course + HW
+//using scanner and making a simple calculator
+
 public class Lesson02 {
     public static void main(String[] args) {
 //        //Using scanner
@@ -20,7 +22,7 @@ public class Lesson02 {
         System.out.println("1. Addition");
         System.out.println("2. Subtraction");
         System.out.println("3. Multiplying");
-        System.out.println("4. Division");
+        System.out.println("4. Division"); //HW
         System.out.print("Enter the operation: ");
         int operation = sc.nextInt();
 
