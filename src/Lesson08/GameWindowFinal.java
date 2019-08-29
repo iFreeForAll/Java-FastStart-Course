@@ -1,9 +1,8 @@
 package Lesson08;
 
-//code from the 7th lesson of the course
-//continue making the game Catch the Drop
-//using images, system's time as velocity
-//HW was to make the drop falling by diagonal (line 50)
+//code from the 8th lesson of the course
+//final version the game Catch the Drop
+//added mouse events and score
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
